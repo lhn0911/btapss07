@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import ProductChildren from "./ProductChildren.vue";
+import ProductChildren from "@/components/b2/ProductChildren.vue";
 
 const product = {
   id: 1,

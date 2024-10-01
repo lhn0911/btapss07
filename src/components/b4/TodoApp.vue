@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-import TodoItem from "./TodoItem.vue";
+import TodoItem from "@/components/b4/TodoItem.vue";
 import { ref } from "vue";
 const id = ref();
 

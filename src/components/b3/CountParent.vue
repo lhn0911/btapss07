@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-import CountChildren from "./CountChildren.vue";
+import CountChildren from "@/components/b3/CountChildren.vue";
 import { ref } from "vue";
 
 const count = ref(0);

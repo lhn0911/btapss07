@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-import ChildrenComponent from "./ChildrenComponent.vue";
+import ChildrenComponent from "@/components/b1/ChildrenComponent.vue";
 
 const company = "Rikkei Academy";
 </script>

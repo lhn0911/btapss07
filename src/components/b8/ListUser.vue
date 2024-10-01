@@ -7,7 +7,7 @@
 
 <script setup>
 import { ref } from "vue";
-import FormAddUser from "./FormAddUser.vue";
+import FormAddUser from "@/components/b8/FormAddUser.vue";
 
 const isFormOpen = ref(false);
 
